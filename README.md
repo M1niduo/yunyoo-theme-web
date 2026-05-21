@@ -1,5 +1,7 @@
 # 魔方财务 YUNYOO 主题模板 [迷你哆云](https://www.miniduo.cn) 定制版
 
+> /public/themes/web/yunyoo 放到这个目录
+
 > 免预存招代理 Q:1283187190
 
 ![1](https://github.com/qq1037305420/yunyoo/blob/main/theme.jpg)
