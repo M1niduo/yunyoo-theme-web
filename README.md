@@ -4,7 +4,7 @@
 
 > 免预存招代理 Q:1283187190
 
-![1](https://github.com/qq1037305420/yunyoo/blob/main/web/theme.jpg)
+![1](https://github.com/qq1037305420/yunyoo/blob/main/web/yunyoo/theme.jpg)
 
 ![2](https://github.com/qq1037305420/yunyoo/blob/main/image.png)
 
